@@ -13,4 +13,6 @@ word20 word21 word22 word23 word24 word25 word26 word27 word28 word29
 * trait3
 * trait4
 
+> this is a quote of the favourite character using blockquote
+
 
